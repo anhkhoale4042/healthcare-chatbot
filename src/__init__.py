@@ -1,3 +1,0 @@
-"""
-Healthcare Chatbot source package.
-"""
